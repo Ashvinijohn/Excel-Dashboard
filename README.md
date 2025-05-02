@@ -1,4 +1,4 @@
-Sales and Marketing Call Center Dashboard
+**Sales and Marketing Call Center Dashboard**
 ![Sales and Marketing Call Center](https://github.com/user-attachments/assets/62821d71-c2ee-45e0-9b54-25985f6d526a)
 
 An Excel binary workbook (.xlsb) that delivers an interactive dashboard for tracking and analyzing call center performance trends. It highlights peak and low call volumes, breaks down metrics by team and campaign, and helps inform staffing and campaign decisions.
